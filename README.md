@@ -2,9 +2,7 @@
 
 * Its a web application representing my college's snacks and tea shop - Vinayak Snacks & Tea.
 
-### 👀 [Live Link](https://vinayak-snacks-and-tea.herokuapp.com/) 
-
-* Deployed at [Heroku](https://heroku.com).
+### 👀 [Live Link]https://vinayak-snacks-and-tea.netlify.app/
 
 ### 👌 Features
 *  Inventory of daily available items on front page.
@@ -64,4 +62,3 @@ yarn start
 If you find bugs with this project, pull requests are always welcome. You can [create an issue here](https://github.com/ShwetKhatri2001/Snacks-and-Tea-Shop/issues/new).
 Your :star: is also greatly appreciated.
 
-[Checkout my GitHub profile and view more awesome projects](https://github.com/ShwetKhatri2001)
